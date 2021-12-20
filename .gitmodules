@@ -1,0 +1,69 @@
+[submodule "Enumeration/Kerbrute"]
+	path = Enumeration/Kerbrute
+	url = https://github.com/ropnop/kerbrute
+[submodule "Exploits/AutoBlue-MS17-010"]
+	path = Exploits/AutoBlue-MS17-010
+	url = https://github.com/3ndG4me/AutoBlue-MS17-010
+[submodule "Exploits/Linux_LPE_eBPF_CVE-2021-3490"]
+	path = Exploits/Linux_LPE_eBPF_CVE-2021-3490
+	url = https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490.git
+[submodule "Exploits/SMB/CVE-2007-2447"]
+	path = Exploits/SMB/CVE-2007-2447
+	url = https://github.com/amriunix/CVE-2007-2447.git
+[submodule "Exploits/Windows-Kernel-Exploits"]
+	path = Exploits/Windows-Kernel-Exploits
+	url = https://github.com/SecWiki/windows-kernel-exploits.git
+[submodule "Get-Ready/Commando-VM"]
+	path = Get-Ready/Commando-VM
+	url = https://github.com/mandiant/commando-vm.git
+[submodule "Misc/7z2hashcat"]
+	path = Misc/7z2hashcat
+	url = https://github.com/philsmd/7z2hashcat.git
+[submodule "Misc/NTLMRawUnHide"]
+	path = Misc/NTLMRawUnHide
+	url = https://github.com/mlgualtieri/NTLMRawUnHide.git
+[submodule "Misc/RsaCTFTool"]
+	path = Misc/RsaCTFTool
+	url = https://github.com/Ganapati/RsaCtfTool.git
+[submodule "Post-Exploitation/Chisel"]
+	path = Post-Exploitation/Chisel
+	url = https://github.com/jpillora/chisel.git
+[submodule "Post-Exploitation/FallOfSudo"]
+	path = Post-Exploitation/FallOfSudo
+	url = https://github.com/Critical-Start/FallofSudo.git
+[submodule "Post-Exploitation/LinEnum"]
+	path = Post-Exploitation/LinEnum
+	url = https://github.com/rebootuser/LinEnum.git
+[submodule "Post-Exploitation/Linux-Exploit-Suggester"]
+	path = Post-Exploitation/Linux-Exploit-Suggester
+	url = https://github.com/mzet-/linux-exploit-suggester.git
+[submodule "Post-Exploitation/Linux-Exploit-Suggester-2"]
+	path = Post-Exploitation/Linux-Exploit-Suggester-2
+	url = https://github.com/jondonas/linux-exploit-suggester-2.git
+[submodule "Post-Exploitation/LinuxPrivChecker"]
+	path = Post-Exploitation/LinuxPrivChecker
+	url = https://github.com/sleventyeleven/linuxprivchecker.git
+[submodule "Post-Exploitation/Mimikatz"]
+	path = Post-Exploitation/Mimikatz
+	url = https://github.com/ParrotSec/mimikatz.git
+[submodule "Post-Exploitation/PEASS-ng"]
+	path = Post-Exploitation/PEASS-ng
+	url = https://github.com/carlospolop/PEASS-ng.git
+[submodule "Post-Exploitation/Powershell-Empire"]
+	path = Post-Exploitation/Powershell-Empire
+	url = https://github.com/EmpireProject/Empire.git
+[submodule "Post-Exploitation/ProcDump-For-Linux"]
+	path = Post-Exploitation/ProcDump-For-Linux
+	url = https://github.com/Sysinternals/ProcDump-for-Linux.git
+[submodule "Post-Exploitation/SharpWeb"]
+	path = Post-Exploitation/SharpWeb
+	url = https://github.com/djhohnstein/SharpWeb.git
+[submodule "Web/Jwt-Tool"]
+	path = Web/Jwt-Tool
+	url = https://github.com/ticarpi/jwt_tool.git
+[submodule "Wordlists/OneListForAll"]
+	path = Wordlists/OneListForAll
+	url = https://github.com/six2dez/OneListForAll.git
+[submodule "Wordlists/SecLists"]
+	path = Wordlists/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
